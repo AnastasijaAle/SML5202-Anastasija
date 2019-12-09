@@ -14,8 +14,18 @@
  <li> <ol> Exercises to further your learning </ol> </li>
     </p>   
   
-   <h3> <a href="WhereNext.html">Where Next? </a> </h3>
+   <h3> <a href="where-next.html">Where Next? </a> </h3>
    
   <p> Click the link above to be taken onto a page that will direct you on the right path of German learning to better your skills in German. </p>
+  
+  <p> I hope you enjoy spending time on the website and find it useful! </p>
+ 
+ <p> If you ever want to contact me about any issues you encounter with the website or any suggestions for firthwer development please do not hesitate to send me an email and I will do my best to reply to you all as soon as possible. </p>
+ 
+ <a href = "mailto:anastasijaale@inbox.lv">Send Email</a>
+ 
+ <a href = "mailto:anastasijaale@inbox.lv?subject = Feedback&body = Message">
+Send Feedback
+</a>
 
-
+<h4> Talk to you all soon! </h4>

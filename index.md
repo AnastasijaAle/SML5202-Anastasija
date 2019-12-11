@@ -13,7 +13,7 @@
   <li>  Grammar of cases in German  </li>
   <li>  Vocabulary topics including <i>alphabet, food,shopping,weather and more! </i> </li>
  <li>  Exercises to further your learning </li>
-    </ul>
+   </ul>
       
   
    <p> Click the link below to be taken onto a page that will direct you on the right path of German learning to better your skills in German. Here you will be able to find multiple exercises, grammar books and exercise books that will help you develop your listening, reading and writing skills that will be useful in the future if you decide to complete any tests.  </p>

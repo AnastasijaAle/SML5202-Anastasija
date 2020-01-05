@@ -11,13 +11,15 @@
   
   <h3> Quizlet </h3>
   
-  <p> Quizlet is a community of learners that put up their own resources and you are able to learn together and even make new friends. It is most famous for its flashcards so if you are into that and are sure that it helps your learning, then click   <p> Click <a href="https://quizlet.com/latest"> here </a> to be taken once again onto the home page of the Quizlet desktop site but this website also has an app available for convenience on the go.</p>
+  <p> Quizlet is a community of learners that put up their own resources and you are able to learn together and even make new friends. It is most famous for its flashcards so if you are into that and are sure that it helps your learning, then click Click <a href="https://quizlet.com/latest"> here </a> to be taken once again onto the home page of the Quizlet desktop site but this website also has an app available for convenience on the go.</p>
   
   <h3> Youtube </h3>
   
   <p> It is no secret that YouTube has an abundance of langauge learning videos available but I would like to direct you to one specific website which helps me a lot while I am learning German.
   
-  <p>The name of the channel is <em> Easy German </em> </p>
+  <Br>
+  
+  The name of the channel is <em> Easy German </em> 
   
   Click <a href="https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ"> here </a> to be taken straight to the <em> Easy German </em> Channel. </p>
   
@@ -44,10 +46,10 @@
   <p> Alongside books that all cost money, there are a lot of worksheets available online for <b> FREE </b> with answers available too which comes in handy when you want to mark your own work. <br>
   Below there are a couple of website that I have used myself but as most fo you are most liekly familiar, just going online and searching will also do the job. </p>
   
-  <li>
-  <li> <ol> <a href="http://www.nthuleen.com/teach/grammar.html"> nthuleen.com </a> </ol>
-  <li> <ol><a href="http://www.deutschseite.de/"> deutschseite.de </a> </ol>
-  <li> <ol> <a href="https://german.net/exercises/"> german.net </a> </ol> </li>
+  <ol>
+  <li> <a href="http://www.nthuleen.com/teach/grammar.html"> nthuleen.com </a> </li>
+  <li> <a href="http://www.deutschseite.de/"> deutschseite.de </a> </li>
+  <li> <a href="https://german.net/exercises/"> german.net </a> </li> </ol>
   
   <p> <b> Please note! </b> These are only a couple of options that I have used and tested myself. Do not limit yourself to these resources and look and use your own ones too.</p>
   

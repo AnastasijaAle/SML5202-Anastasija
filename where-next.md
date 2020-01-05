@@ -53,6 +53,14 @@
   
   <p> <b> Please note! </b> These are only a couple of options that I have used and tested myself. Do not limit yourself to these resources and look and use your own ones too.</p>
   
+   <hr>
+
+<p>
+    <a href="index.html">Home </a> <br>
+        <a href="Grammar.html">Grammar</a> <br>
+    <a href="Vocabulary.html">Vocabulary</a> <br>
+    <a href="MoreExercises.html">More Exercises </a>
+  
   
   
   

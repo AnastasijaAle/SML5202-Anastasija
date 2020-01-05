@@ -1,4 +1,4 @@
-<h1> German Grammar for Beginners <h1>
+<h1> German Grammar for Beginners </h1>
 
 <p> Welcome to a page about German Grammar. 
 <Br>

@@ -6,7 +6,7 @@
 <p><img style=" width:100%;border:1px lined black;"
     src="https://www.rijnhoven.nl/files/duitsland-vlag.jpg" /></p>
 
-<p> My name is Anastasija and I am a learner of German myself.I hope you enjoy this website and an abundance of resources on here for you to learn, improve or just revise your German skills. </p>
+<p> I hope you enjoy this website and an abundance of resources on here for you to learn, improve or just revise your German skills. </p>
 
 <i> On this website you will find: </i>
  <ul> <li> Grammar including Definite and Indefinite Articles </li>

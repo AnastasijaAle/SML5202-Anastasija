@@ -20,6 +20,15 @@
   <hr>
   
   <h3> Basic Phrases </h3>
+  
+  <p> For your convenience, here is an audio file with all of the basic phrases pronounciations in German. </p>
+  
+  <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/basicphrases.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+  
+  
 <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr><td> Hallo!</td> <td> Hello! </td> </tr>

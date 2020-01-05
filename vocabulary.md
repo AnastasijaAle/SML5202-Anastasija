@@ -25,7 +25,6 @@
   
   <audio controls>
   <source src="https://github.com/AnastasijaAle/SML5202-Anastasija-Final/blob/master/assets/Basic%20Phrases.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
 </audio>
   
   

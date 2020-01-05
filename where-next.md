@@ -57,9 +57,9 @@
 
 <p>
     <a href="index.html">Home </a> <br>
-        <a href="Grammar.html">Grammar</a> <br>
-    <a href="Vocabulary.html">Vocabulary</a> <br>
-    <a href="MoreExercises.html">More Exercises </a>
+        <a href="grammar.html">Grammar</a> <br>
+    <a href="vocabulary.html">Vocabulary</a> <br>
+    <a href="more-exercises.html">More Exercises </a>
   
   
   

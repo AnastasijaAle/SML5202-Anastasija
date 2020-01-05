@@ -4,11 +4,11 @@
 <Br>
 It is very clear that when learning a language, grammar is often the main issue that people face but there is really no going around it as knowledge of grammar is the foundation of langauge knowledge. </p>
 
-<H3> On this page you will find :
+<H3> On this page you will find : </h3>
 
-<Li> <Ul> Definite Articles </li> </UL>
-<Li> <Ul> Indefinite Articles </li> </UL>
-<Li> <Ul> Grammar Cases </li> </UL> </h3>
+<Li> <Ul> Definite Articles </UL>
+<Li> <Ul> Indefinite Articles</UL>
+  <Li> <Ul> Grammar Cases </UL>  </li> 
 
 <h4> Let's get into it </h4>
 
@@ -21,7 +21,8 @@ It is very clear that when learning a language, grammar is often the main issue 
   
   Definite articles are used before nouns, for direct objects , certain people (like family members) and ideas. <br>
   
-<table><tr><th> </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> Plural</th> </tr>
+<table>
+  <tr><th> </th><th> Masculine </th> <th> Feminine </th> <th> Neuter </th><th> Plural</th> </tr>
   <tr><td> Nominative </td><td> der </td> <td> die</td> <td> das </td><td> die</td></tr>
   <tr><td> Accusative</td><td> den </td><td> die </td><td> das </td><td> die </td> </tr>
   <tr><td> Genitive </td><td> des </td><td> der </td><td> des </td><td> der </td> </tr>
@@ -29,10 +30,10 @@ It is very clear that when learning a language, grammar is often the main issue 
   </table>
   
   At the moment, it is only important to learn the Nominative ones which are :
-  <Li> <Ul> DER - Masculine </li> </UL>
-<Li> <Ul> DIE - Feminine </li> </UL>
-<Li> <Ul> DAS - Neuter <li> <UL> 
-<Li> <ul> DIE - Plural </li> </ul> </h3>
+  <Li> <Ul> DER - Masculine </UL>
+<Li> <Ul> DIE - Feminine  </UL>
+<Li> <Ul> DAS - Neuter </UL> 
+  <Li> <ul> DIE - Plural </ul> </li>
   
   Eventually though, the whole table below will need to be memorised as these are used so often in everyday speech and writing that learning it will just be much more convenient.
   
@@ -78,14 +79,14 @@ Luckily, this time, there are no articles for plural and therefore there is less
   
   <h1> Grammar Cases </h1>
   
- <p> Just like in any other language, German has cases.
-  <br>
+ <p> Just like any other language, German has cases. </p>
+  
   
   German has 4(four) cases that include:
-  <Li> <Ul> Nominative </li> </UL>
-<Li> <Ul> Accusative </li> </UL>
-<Li> <Ul> Dative <li> <UL> 
-<Li> <ul> Genitive </li> </ul>  </p>
+  <Li> <Ul> Nominative </UL>
+<Li> <Ul> Accusative  </UL>
+<Li> <Ul> Dative  <UL> 
+  <Li> <ul> Genitive </ul> </li> 
   
   <p> Each case has a purpose and below I will go into more detail on each of them. It is important to note that here, I will cover the basic definitions of each case and will not go into too much detail as there are a lot of other exceptions and rules for cases. <br>
 
@@ -94,8 +95,9 @@ I therefore reccomend going to the pages 'Where Next' and 'Resources' to continu
   <p> The helpful video below will help with understanding the cases, hearing the example in German but also understand what people are saying as English subtitles are available. </p>
   
   <h4> All German Cases| Super Easy German (55) : </h4>
- <a href="https://www.youtube.com/watch?v=xbWOui-V-U4"> All German Cases| Super Easy German </a> 
-  
+ 
+ <iframe width="616" height="347" src="https://www.youtube.com/embed/xbWOui-V-U4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
   <hr>
   
   
@@ -105,9 +107,10 @@ I therefore reccomend going to the pages 'Where Next' and 'Resources' to continu
   
   <h4> Examples </h4>
   
-  <p> (a) <b> He </b> is <b>eating</b> an <b>apple </b>.</p> <br>
+  <p> (a) <b> He </b> is <b>eating</b> an <b>apple </b>.</p> 
   
   <p lang="de"> (b) <b>Er </b> <b>isst</b> einen <b>Apfel </b>. </p> 
+  
   <br>
   
   <p> (a) <b> She </b> is <b> flying </b> to <b> Germany </b> </p>
@@ -126,7 +129,9 @@ I therefore reccomend going to the pages 'Where Next' and 'Resources' to continu
   
   <p lang="de"> (b) Die Frau <b>kauft einen Rock</b>.
   
-  <p> (a) The man <b>throws the ball</b>. </p> <Br>
+  <br>
+  
+  <p> (a) The man <b>throws the ball</b>. </p> 
   
   <p lang="de"> (b) Der Mann <b>wirft einen Ball</b>. </p>
   

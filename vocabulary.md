@@ -6,7 +6,7 @@
   Enjoy! </p>
   
   
-  <h3> Alphabet <h3> 
+  <h3> Alphabet </h3> 
   
   <a href="https://i.stack.imgur.com/cTJBx.gif" title="View Image Source">
 

@@ -10,7 +10,7 @@
   
   <a href="https://i.stack.imgur.com/cTJBx.gif" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://i.stack.imgur.com/cTJBx.gif" alt="German Alphabet" > </a>
+  <img style="width:50%; border:1px solid black;" src="https://i.stack.imgur.com/cTJBx.gif" alt="German Alphabet" ></a>
   
   <p> Image found online as no fitting images labeled for reuse. This image does not only show you the letters that exist in the German alphabet but it also shows you the transcription of how they are pronounced. <br>
   To make it easier however, below there is a video that will pronounce all the letters and talk more in depth about the German alphabet. </p>
@@ -60,7 +60,7 @@
 
  <a href="https://images.unsplash.com/photo-1544509830-83c8094ad678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1544509830-83c8094ad678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Food" > </a>
+  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1544509830-83c8094ad678?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Food" ></a>
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   
@@ -116,7 +116,7 @@
  
  <a href="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Shopping Bags" > </a>
+  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Shopping Bags" </a>
 
  <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
  
@@ -169,7 +169,7 @@
  
   <a href="https://images.unsplash.com/photo-1545166084-984d807048f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1545166084-984d807048f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Travel" > </a>
+  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1545166084-984d807048f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Travel" ></a>
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   
@@ -225,7 +225,7 @@
 
  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_8oZOEnjPQkiRvAN-q3JiN_578FJsF5R4vjIJvIWpjw82Vl0&s" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_8oZOEnjPQkiRvAN-q3JiN_578FJsF5R4vjIJvIWpjw82Vl0&s" alt="German Alphabet" > </a>
+  <img style="width:50%; border:1px solid black;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL_8oZOEnjPQkiRvAN-q3JiN_578FJsF5R4vjIJvIWpjw82Vl0&s" alt="German Alphabet" ></a>
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   

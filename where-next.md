@@ -27,19 +27,21 @@
   
   <p> Grammar books, exercise books and vocabulary books are all vital to learning a language and if you are the person who prefers hard copy books to online, then these few examples are for you. </p>
   
-  <p> <b> <em> Wie Geht’s German Book: Tenth Edition (Wie Geht's? An introductory German Course) </b> </em> is a book that will last you for atleats 2 years and will take you from A-Z in German. If you want to structure your learning and take it step by step, then this book is for you. </p>
+  <b> <em> Wie Geht’s German Book: Tenth Edition (Wie Geht's? An introductory German Course) </b> </em> is a book that will last you for atleats 2 years and will take you from A-Z in German. If you want to structure your learning and take it step by step, then this book is for you. 
   
-  <p> Click <a href="https://www.amazon.co.uk/gehts-World-Languages-Dieter-Sevin/dp/1285733606/ref=sr_1_1?keywords=Wie+Geht%E2%80%99s+German+Book&qid=1578206022&sr=8-1"> here </a> to be taken to Amazon to be able to read more einformation on the book an purchase it straight away. </p>
+  Click <a href="https://www.amazon.co.uk/gehts-World-Languages-Dieter-Sevin/dp/1285733606/ref=sr_1_1?keywords=Wie+Geht%E2%80%99s+German+Book&qid=1578206022&sr=8-1"> here </a> to be taken to Amazon to be able to read more einformation on the book an purchase it straight away.
   
-  <p> <b> <em> Martin Durrell (Hammer's German Grammar and Usage) Sixth Edition </b> </em> <br> This is a great grammar book that comes wiht explanations and exercises to everything so acts as a great learning material and covers even harder topics for further learning. </p>
+  <b> <em> Martin Durrell (Hammer's German Grammar and Usage) Sixth Edition </b> </em> <br> This is a great grammar book that comes wiht explanations and exercises to everything so acts as a great learning material and covers even harder topics for further learning. 
   
-  <p> <b> <em> Martin Durrell et al. (Practising German Grammar) Fourth Edition </b> </em> 
+  <b> <em> Martin Durrell et al. (Practising German Grammar) Fourth Edition </b> </em> 
   <br>
-  This is another great buy but this is only an exercise book that gies along with the one I talked about before so if you need a lto of practise, this one is for you.
+  This is another great buy but this is only an exercise book that gies along with the one I talked about before so if you need a lot of practise, this one is for you.
   
-  <p> <b> <em> Sarah M. B. Fagan (using German Vocabualry) </b> </em>
+  <b> <em> Sarah M. B. Fagan (using German Vocabualry) </b> </em>
+  
   <br> 
-  This book is very massive so not the best for on the go but it contains an abundance of vocabulary in topics that you would have never even thought about. </p>
+  
+  This book is very massive so not the best for on the go but it contains an abundance of vocabulary in topics that you would have never even thought about.
   
   <h3> Materials online </h3>
   

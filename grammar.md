@@ -1,10 +1,10 @@
-<H1> German Grammar for Beginners <H1>
+<h1> German Grammar for Beginners <h1>
 
 <p> Welcome to a page about German Grammar. 
 <Br>
 It is very clear that when learning a language, grammar is often the main issue that people face but there is really no going around it as knowledge of grammar is the foundation of langauge knowledge. </p>
 
-<H3> On this page you will find : </h3>
+<h3> On this page you will find : </h3>
 
 <ul> <Li> Definite Articles </li>
 <Li> Indefinite Articles</li>

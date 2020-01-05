@@ -10,7 +10,7 @@
   
   <a href="https://i.stack.imgur.com/cTJBx.gif" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://i.stack.imgur.com/cTJBx.gif" alt="German Alphabet" > 
+  <img style="width:50%; border:1px solid black;" src="https://i.stack.imgur.com/cTJBx.gif" alt="German Alphabet" > </a>
   
   <p> Image found online as no fitting images labeled for reuse. This image does not only show you the letters that exist in the German alphabet but it also shows you the transcription of how they are pronounced. <br>
   To make it easier however, below there is a video that will pronounce all the letters and talk more in depth about the German alphabet. </p>

@@ -1,7 +1,7 @@
 <h1> Vocabulary </h1>
 
 <p> On this page you will find exercises, vocabulary sheets, basic german phrases and more. <br>
-  Vovabulary is one of the most important but at the same time one fo the hardest things to learn as there is so much of it.<br>
+  Vocabulary is one of the most important but at the same time one fo the hardest things to learn as there is so much of it.<br>
   On this page I will divide the vocabulary into topics so that way there is less to leanr for a certain theme.
   Enjoy! </p>
   
@@ -33,7 +33,7 @@
   <tr><td> Guten Morgen/Abend/Tag.</td> <td> Good morning/evening/day </td> </tr>
   <tr><td> ja </td> <td> Yes </td> </tr>
   <tr><td> neinv</td> <td> No </td> </tr>
-  <tr><td> Ich weiß nicht! </td> <td> I don't know! </td> </tr>
+  <tr><td> Ich weiß nicht! </td> <td> I don't know! </td> </tr> </table>
   
   <h4> Game for practise </h4>
   
@@ -46,7 +46,28 @@
   <hr>
   
   <h3> Food </h3>
-  
-  
+ 
+ <table>
+  <tr> <th> Deutsch </th> <th> English </th> </tr>
+  <tr> <td> das Essen </td> <td> food </td> </tr>
+  <tr> <td> das Frühstück </td> <td> breakfast </td> </tr>
+   <tr> <td> die Flasche </td> <td> bottle </td> </tr>
+   <tr> <td> die Gabel </td> <td> fork </td> </tr>
+   <tr> <td> Der Löffel</td> <td> spoon </td> </tr>
+   <tr> <td>der Kellner </td> <td> waiter </td> </tr>
+   <tr> <td> das Messer </td> <td> knife</td> </tr>
+   <tr> <td> das Mittagessen </td> <td> lunch </td> </tr>
+   <tr> <td> der Nachtisch </td> <td> dessert </td> </tr>
+   <tr> <td> die Pizza </td> <td> Pizza </td> </tr>
+   <tr> <td>  die Rechnung </td> <td> bill </td> </tr>
+   <tr> <td> die Speisekarte </td> <td> menu </td> </tr>
+   <tr> <td> die Suppe  </td> <td> soup </td> </tr>
+   <tr> <td> der Teller </td> <td> plate </td> </tr>
+   <tr> <td> der Zucker </td> <td>  Sugar </td> </tr>
+   <tr> <td> das Ei </td> <td> Egg </td> </tr>
+   <tr> <td> der Kuchen </td> <td> Cake </td> </tr>
+   <tr> <td> das Fleisch</td> <td> Meat </td> </tr>
+   <tr> <td> die Limonade </td> <td> Lemonade</td> </tr>
+ 
   
   

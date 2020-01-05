@@ -1,12 +1,12 @@
 <h1> Welcome Learners! </h1>
 <br>
 
-<h3> Thank you for coming to this website where all those who want to learn German will be able to do that!</h3>
+<h3> Thank you for coming to this website where you will be able to not learn German as a language, but also enjoy learning it.</h3>
 
 <p><img style=" width:100%;border:1px lined black;"
     src="https://www.rijnhoven.nl/files/duitsland-vlag.jpg" /></p>
 
-<p> My name is Anastasija and I myself am a learner of German. I started learning German when I was 12 years old and was stable for a year but then I stopped due to personal circumstances and took upon learnign it again at the age of 19. Therefore, from one learner to another, I hope you enjoy this website and an abundance of resources on here for you to learn, improve or just revise your German skills. </p>
+<p> My name is Anastasija and I am a learner of German myself.I hope you enjoy this website and an abundance of resources on here for you to learn, improve or just revise your German skills. </p>
 
 <i> On this website you will find: </i>
  <ul> <li> Grammar including Definite and Indefinite Articles </li>
@@ -14,9 +14,18 @@
   <li>  Vocabulary topics including <i>alphabet, food,shopping,weather and more! </i> </li>
  <li>  Exercises to further your learning </li>
    </ul>
+   
+   <h1> Germany </h1>
+   
+   <p> Germany is one of the countries that is part of the European Union and the German language goes as far back as to the middle ages when there were 3(three) main dialects of German. These dialects are still present today but sadly in the near future, they could become extinct. These dialects are <em> low german (spoken in the north), high german (spoken in the south) and central german which is spoken in the centre.
+    <br>
+    
+    One good thing for students is that inversities in Germany are completely free which means no studetn debt and apparently, the first printed book came out in Germany. How cool is that?
+    
+    One more fact that relates to languge learnign is the fact that German is the third most taught language across the world. It should be definately easy to find someone to practise with then. </p>
       
   
-   <p> Click the link below to be taken onto a page that will direct you on the right path of German learning to better your skills in German. Here you will be able to find multiple exercises, grammar books and exercise books that will help you develop your listening, reading and writing skills that will be useful in the future if you decide to complete any tests.  </p>
+   <p> Click the link below to be taken onto a page that will direct you on the right path of German learning to better your skills in German. Here you will be able to find grammar books and exercise books that will help you develop your listening, reading and writing skills that will be useful in the future if you decide to complete any tests.  </p>
    
    <h3> <a href="where-next.html">Where Next? </a> </h3>
   
@@ -32,4 +41,4 @@
 Send Feedback
 </a>
 
-<h4> It is now time to learn German! </h4>
+<h4> Now it is time to learn! </h4>

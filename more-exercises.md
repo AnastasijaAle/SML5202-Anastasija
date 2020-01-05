@@ -52,5 +52,20 @@ Below is a link to slow news and news articles in German.
   <br>
   
  <em> Thank you for visiting my website and the best of luck in the future! <em>
+  
+ <hr>
+
+<p>
+    <a href="index.html">Home </a> <br>
+        <a href="Grammar.html">Grammar</a> <br>
+    <a href="Vocabulary.html">Vocabulary</a> <br>
+    <a href="WhereNext.html">Where Next? </a>
+
+
+  
+
+
+  
+
 
 

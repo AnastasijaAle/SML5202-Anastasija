@@ -57,9 +57,9 @@ Below is a link to slow news and news articles in German.
 
 <p>
     <a href="index.html">Home </a> <br>
-        <a href="Grammar.html">Grammar</a> <br>
-    <a href="Vocabulary.html">Vocabulary</a> <br>
-    <a href="WhereNext.html">Where Next? </a>
+        <a href="grammar.html">Grammar</a> <br>
+    <a href="vocabulary.html">Vocabulary</a> <br>
+    <a href="where-next.html">Where Next? </a>
 
 
   

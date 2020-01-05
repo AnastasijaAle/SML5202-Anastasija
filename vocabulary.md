@@ -24,7 +24,8 @@
   <p> For your convenience, here is an audio file with all of the basic phrases pronounciations in German. </p>
   
   <audio controls>
-  <source src="https://github.com/AnastasijaAle/SML5202-Anastasija-Final/blob/master/assets/Basic%20Phrases.mp3" type="audio/mpeg">
+  <source src="https://github.com/AnastasijaAle/SML5202-Anastasija-Final/assets/AudioTrack.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
 </audio>
   
   

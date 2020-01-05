@@ -178,9 +178,9 @@ I therefore reccomend going to the pages 'Where Next' and 'Resources' to continu
 
 <p>
     <a href="index.html">Home </a> <br>
-        <a href="Vocabulary.html">Vocabulary</a> <br>
-    <a href="MoreExercises.html">More Exercises</a> <br>
-    <a href="WhereNext.html">Where Next? </a>
+        <a href="vocabulary.html">Vocabulary</a> <br>
+    <a href="more-exercises.html">More Exercises</a> <br>
+    <a href="where-next.html">Where Next? </a>
    
   
   

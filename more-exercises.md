@@ -21,6 +21,7 @@
 <p> The only real advice I am able to give as a learner myself is find what interest <b> YOU </b>. There is no point in sitting around and looking at vocabulary if you are not gong to learn it that way.
   
   <br>
+  
  Record yourself reading the vocabulary and the translation and listen to it while you do chores around the house and I promise you that you will learn the vocabulary in no time.
  
  <br>
@@ -29,7 +30,7 @@
  
  <br>
  
- Last tip I can give is really... <em> <b> ENGAGE </em> </b>.
+ Last tip I can give is really... <em> <b> ENGAGE. </b> </em> 
  
 Try and read that news article in German, watch German news on slow mode, speka to native speakers but do it instead of promising yourself to do it.
 

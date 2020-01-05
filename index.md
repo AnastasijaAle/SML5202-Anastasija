@@ -42,3 +42,12 @@ Send Feedback
 </a>
 
 <h4> Now it is time to learn! </h4>
+
+<hr>
+
+<p>
+    <a href="Grammar.html">Grammar </a> <br>
+        <a href="Vocabulary.html">Vocabulary</a> <br>
+    <a href="MoreExercises.html">More Exercises</a> <br>
+    <a href="WhereNext.html">Where Next? </a>
+   

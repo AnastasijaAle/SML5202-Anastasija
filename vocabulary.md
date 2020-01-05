@@ -55,6 +55,19 @@
   <hr>
   
   <h3> Food </h3>
+  
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ioKJQzEizG5IhjMusQetUEBGzVypdUuMRjxcy6JvJoozZoH8PA&s" title="View Image Source">
+
+<img style="width:50%; border:1px solid black;"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ioKJQzEizG5IhjMusQetUEBGzVypdUuMRjxcy6JvJoozZoH8PA&s" alt="image of food">
+</a>
+  
+  <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
+  
+    <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/food.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+  
  
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
@@ -76,7 +89,30 @@
    <tr> <td> das Ei </td> <td> Egg </td> </tr>
    <tr> <td> der Kuchen </td> <td> Cake </td> </tr>
    <tr> <td> das Fleisch</td> <td> Meat </td> </tr>
-   <tr> <td> die Limonade </td> <td> Lemonade</td> </tr>
- 
+   <tr> <td> die Limonade </td> <td> Lemonade</td> </tr> </table>
   
+  <h4> Common Questions and Answers </h4>
+  
+  <table>
+  <tr> <th> Deutsch </th> <th> English </th> </tr>
+  <tr> <td> Was gibt's zu essen/trinken? </td> <td> What is there to eat/drink? </td> </tr>
+  <tr> <td> Guten Appetit!  </td> <td> Enjoy your meal! </td> </tr>
+   <tr> <td> Das schmeckt gut!  </td> <td> That tastes good! </td> </tr>
+   <tr> <td>  Ich möchte zahlen bitte! </td> <td> I would like to pay! </td> </tr> </table>
+  
+ <h4> Game for practise </h4>
+ 
+ <iframe src="https://h5p.org/h5p/embed/690032" width="642" height="651" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ 
+ <hr>
+ 
+ <h3> Shopping </h3>
+ 
+ <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3884szLMNp2gDLQwembV80D1A2BBQluOq1xltgZPSni8eUdY37w&s">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3884szLMNp2gDLQwembV80D1A2BBQluOq1xltgZPSni8eUdY37w&s" alt="Shopping">
+</a>
+
+ 
+
   

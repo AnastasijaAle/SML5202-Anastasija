@@ -174,6 +174,14 @@ I therefore reccomend going to the pages 'Where Next' and 'Resources' to continu
   
   <iframe src="https://h5p.org/h5p/embed/689984" width="475" height="490" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
+  <hr>
+
+<p>
+    <a href="index.html">Home </a> <br>
+        <a href="Vocabulary.html">Vocabulary</a> <br>
+    <a href="MoreExercises.html">More Exercises</a> <br>
+    <a href="WhereNext.html">Where Next? </a>
+   
   
   
   

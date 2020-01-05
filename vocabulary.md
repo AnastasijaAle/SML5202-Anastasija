@@ -269,7 +269,13 @@
 <h4> Game for practise </h4>
 
 <iframe src="https://h5p.org/h5p/embed/675461" width="642" height="455" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  <hr>
 
+<p>
+    <a href="index.html">Home </a> <br>
+        <a href="Grammar.html">Grammar</a> <br>
+    <a href="MoreExercises.html">More Exercises</a> <br>
+    <a href="WhereNext.html">Where Next? </a>
 
 
   

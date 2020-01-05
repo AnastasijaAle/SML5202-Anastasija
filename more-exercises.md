@@ -37,7 +37,7 @@ Try and read that news article in German, watch German news on slow mode, speka 
 Below is a link to slow news and news articles in German.
 <a href="https://www.newsinslowgerman.com/series/news/14363"> Listen and read the news in German.</a>
 
-<h1> Frequently asked Questions <h1>
+<h1> Frequently asked Questions </h1>
   
   <p> "Is German hard? " - I would say any languge is hard to learn and especially from scratch so to answer directly, yes, German is a hard langauge to learn.
   

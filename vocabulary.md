@@ -93,7 +93,12 @@
    <tr> <td> das Fleisch</td> <td> Meat </td> </tr>
    <tr> <td> die Limonade </td> <td> Lemonade</td> </tr> </table>
   
-  <h4> Common Questions and Answers </h4>
+  <h4> Common Questions and Answers </h4> 
+  
+    <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/foodqanda.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
   
   <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
@@ -117,6 +122,11 @@
 
  <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
  
+  <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/shoppingtable.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
+ 
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Ausverkauf! </td> <td> Sale! </td> </tr>
@@ -137,6 +147,11 @@
  
    <h4> Common Questions and Answers </h4>
   
+   <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/shopqanda.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
+ 
   <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Kann ich es anprobieren? </td> <td> Can I try it on? </td> </tr>
@@ -160,7 +175,11 @@
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   
-  
+  <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/traveltable.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
+
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Reisen </td> <td> Travelling </td> </tr>
@@ -182,6 +201,11 @@
   
   <h4> Common Questions and Answers </h4>
   
+  <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/travelqanda.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
+
   <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Ich möchte ein Zimmer mit Dusche </td> <td> I would like a room with a shower. </td> </tr>
@@ -208,6 +232,10 @@
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   
+  <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/weathertable.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
   
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
@@ -226,6 +254,11 @@
   
   <h4> Common Questions and Answers </h4>
   
+   <audio controls>
+  <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/weatherqanda.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
+
   <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Wie ist das Wetter? </td> <td> How's the weather? </td> </tr>

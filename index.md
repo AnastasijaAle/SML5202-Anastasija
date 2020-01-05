@@ -18,9 +18,12 @@
    <h1> Germany </h1>
    
    <p> Germany is one of the countries that is part of the European Union and the German language goes as far back as to the middle ages when there were 3(three) main dialects of German. These dialects are still present today but sadly in the near future, they could become extinct. These dialects are <em> low german (spoken in the north), high german (spoken in the south) and central german which is spoken in the centre.
+    
     <br>
     
     One good thing for students is that inversities in Germany are completely free which means no studetn debt and apparently, the first printed book came out in Germany. How cool is that?
+    
+    <br>
     
     One more fact that relates to languge learnign is the fact that German is the third most taught language across the world. It should be definately easy to find someone to practise with then. </p>
       

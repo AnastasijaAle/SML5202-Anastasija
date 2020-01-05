@@ -6,9 +6,9 @@ It is very clear that when learning a language, grammar is often the main issue 
 
 <H3> On this page you will find : </h3>
 
-<Li> <Ul> Definite Articles </UL>
-<Li> <Ul> Indefinite Articles</UL>
-  <Li> <Ul> Grammar Cases </UL>  </li> 
+<ul> <Li> Definite Articles </li>
+<Li> Indefinite Articles</li>
+  <Li> Grammar Cases </li> </UL>  
 
 <h4> Let's get into it </h4>
 
@@ -30,10 +30,10 @@ It is very clear that when learning a language, grammar is often the main issue 
   </table>
   
   At the moment, it is only important to learn the Nominative ones which are :
-  <Li> <Ul> DER - Masculine </UL>
-<Li> <Ul> DIE - Feminine  </UL>
-<Li> <Ul> DAS - Neuter </UL> 
-  <Li> <ul> DIE - Plural </ul> </li>
+<ul>  <Li> DER - Masculine </li>
+<Li>  DIE - Feminine  </li>
+<Li>  DAS - Neuter </li> 
+  <Li> DIE - Plural </li> </ul>
   
   Eventually though, the whole table below will need to be memorised as these are used so often in everyday speech and writing that learning it will just be much more convenient.
   
@@ -83,10 +83,10 @@ Luckily, this time, there are no articles for plural and therefore there is less
   
   
   German has 4(four) cases that include:
-  <Li> <Ul> Nominative </UL>
-<Li> <Ul> Accusative  </UL>
-<Li> <Ul> Dative  <UL> 
-  <Li> <ul> Genitive </ul> </li> 
+ <Ul> <li> Nominative </li>
+<Li> Accusative  </li>
+<Li> Dative  </li> 
+  <Li>  Genitive </li> </ul>
   
   <p> Each case has a purpose and below I will go into more detail on each of them. It is important to note that here, I will cover the basic definitions of each case and will not go into too much detail as there are a lot of other exceptions and rules for cases. <br>
 

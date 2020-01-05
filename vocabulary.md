@@ -64,11 +64,11 @@
   
   <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
   
-    <audio controls>
+  <audio controls>
   <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/food.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
-  
+</audio> 
+    
  
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
@@ -94,7 +94,7 @@
   
   <h4> Common Questions and Answers </h4> 
   
-    <audio controls>
+   <audio controls>
   <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/foodqanda.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio> 
@@ -116,7 +116,7 @@
  
  <a href="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" title="View Image Source">
 
-  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Shopping Bags" </a>
+  <img style="width:50%; border:1px solid black;" src="https://images.unsplash.com/photo-1560452265-74a9a3b351cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60" alt="Shopping Bags"> </a>
 
  <p> Audio file below for convenience and to know how to pronounce the nouns witht he articles. </p>
  
@@ -124,7 +124,8 @@
   <source src="https://anastasijaale.github.io/SML5202-Anastasija-Final/assets/shoppingtable.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio> 
- 
+
+
  <table>
   <tr> <th> Deutsch </th> <th> English </th> </tr>
   <tr> <td> Ausverkauf! </td> <td> Sale! </td> </tr>
